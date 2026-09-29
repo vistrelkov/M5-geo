@@ -1,0 +1,6 @@
+# Секреты и состояние — в репозиторий не кладём
+panel.env
+*.env
+!panel.env.example
+state.json
+*.log
